@@ -17,7 +17,7 @@
 
 
 #### 项目说明
- - 后台地址：https://pengmaster.com/party/marry
+ - 后台统计地址：https://pengmaster.com/party/marry
  - 项目架构：SpringMvc
  - 服务器：阿里云服务
  - 域名：pengmaster.com
@@ -50,3 +50,4 @@
 
  - 前端地址：https://github.com/pengMaster/marry
  - 后台地址：https://github.com/pengMaster/marry_server
+ - 后台统计地址：https://github.com/pengMaster/marry_server_statistic
