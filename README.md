@@ -8,15 +8,16 @@
 
 #### 效果图
 <div>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_server/marry_server_onepng.png"  height="250"  alt=""/>
+    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_server/marry_server_onepng.png"  height="350"  alt=""/>
 </div>
 
 <div>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_server/marry_server_two.png"  height="250"  alt=""/>
+    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_server/marry_server_two.png"  height="350"  alt=""/>
 </div>
 
 
 #### 项目说明
+ - 后台地址：https://pengmaster.com/party/marry
  - 项目架构：SpringMvc
  - 服务器：阿里云服务
  - 域名：pengmaster.com
