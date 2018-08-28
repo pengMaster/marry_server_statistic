@@ -1,4 +1,4 @@
-# marry_server - 服务端
+# marry_server_statistic - 后台统计
 
 #### 项目介绍 
 <div>扫码体验 - 婚礼邀请函</div>
@@ -8,31 +8,24 @@
 
 #### 效果图
 <div>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/ezgif.com-video-to-gif.gif" width="150" height="250"  alt=""/>
+    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_server/marry_server_onepng.png"  height="250"  alt=""/>
 </div>
 
-#### 主页面展示
-<div >
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/device-2018-07-30-142831.png" width="150" height="250"  alt=""/>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/device-2018-07-30-142943.png" width="150" height="250"  alt=""/>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/device-2018-07-30-142956.png" width="150" height="250"  alt=""/>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/device-2018-07-30-143010.png" width="150" height="250" alt=""/>
-    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/device-2018-07-30-143022.png" width="150" height="250"  alt=""/>
-   <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_readme/device-2018-07-30-143036.png" width="150" height="250"  alt=""/>
+<div>
+    <img src="https://github.com/pengMaster/picApplyGit/blob/master/marry_server/marry_server_two.png"  height="250"  alt=""/>
 </div>
+
 
 #### 项目说明
  - 项目架构：SpringMvc
  - 服务器：阿里云服务
  - 域名：pengmaster.com
+ - 代码：代码与marry_server同一项目
  - 数据库：在服务器上装的mysql 地址：47.104.198.222:3306
+ - 小程序地址：https://github.com/pengMaster/marry
  - 后台地址：https://github.com/pengMaster/marry_server
+ - 后台统计地址：hhttps://github.com/pengMaster/marry_server_statistic
  - 项目中引用的网络资源若有侵权，请通知及时删除。该小程序为个人开发，一切解释权归作者所有，图片禁止传播。
-- 功能简介：
-    - 新郎新娘图片展示
-    - 婚礼现场导航
-    - 点赞祝福，分享好友
-    - 身份切换，制作属于自己的请柬
 
 
   
